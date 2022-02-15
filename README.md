@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAK-Analyst
+- 👋 Hi, I’m Mulazim Ali KHOKHAR
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Leanrning
 - 💞️ I’m looking to collaborate on Portfolio Optimization with ethical constraints
